@@ -1,7 +1,8 @@
 {
-    "name": "Calculator-Bot",
-    "description": "A Telegram Calculator-Bot",
-    "repository": "https://github.com/ZauteKm/Calculator-Bot",
+    "name": "INLINE CALCULATOR",
+    "logo": "https://telegra.ph/file/6caec29bf58337953a4b4.png",
+    "description": " Telegram Calculator-Bot",
+    "repository": "https://github.com/SOCIAL-MECHANIC-TEAM-NRD/INLINE-CALCULATOR",
     "keywords": [
         "calculator",
         "telegram bot",
