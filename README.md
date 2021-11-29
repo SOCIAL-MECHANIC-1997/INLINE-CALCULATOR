@@ -27,6 +27,8 @@ Simple Telegram Calculator-Bot
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
+# 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀:
+ #  [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲](https://t.me/social_mechanic_1997)
 
 ---
 
