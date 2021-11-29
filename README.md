@@ -1,6 +1,9 @@
-# INLINE-CALCULATOR
-ᴄᴀʟᴄᴜʟᴀᴛᴇ  ғᴏʀ ʙᴀsɪᴄ ᴍᴀᴛʜ ᴏᴘᴇʀᴀᴛɪᴏɴs ɪᴛ's ᴊᴜsᴛ ᴀ sɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ.        ᴄʀᴇᴀᴛᴇᴅ ʙʏ :  https://t.me/social_mechanic_1997
+## INLINE CALCULATOR
+<IMG src="https://telegra.ph/file/6caec29bf58337953a4b4.png">
+
+ᴄᴀʟᴄᴜʟᴀᴛᴇ  ғᴏʀ ʙᴀsɪᴄ ᴍᴀᴛʜ ᴏᴘᴇʀᴀᴛɪᴏɴs ɪᴛ's ᴊᴜsᴛ ᴀ sɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ.        ᴄʀᴇᴀᴛᴇᴅ ʙʏ :  [SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
 # Calculator-Bot
+
 
 Simple Telegram Calculator-Bot
 
@@ -37,34 +40,9 @@ Simple Telegram Calculator-Bot
 
 ### Deploy
 
-<details><summary><b>Deploy to Heroku</b></summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/ZauteKm/Calculator-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-TEAM-NRD/INLINE-CALCULATOR">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details>
-  <summary><b>Deploy to Railway</b></summary>
-<br/>
-
-<p align="left">
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FZauteKm%2FCalculator-Bot"
-">
-     <img height="30px" src="https://railway.app/button.svg">
-  </a>
-</p>
-
-</a>
-</p>
-
-</details>
-
-<details>
-  <summary><b>Deploy in your VPS</b></summary>
-<br/>
+  
 
 ```sh
 $ git clone https://github.com/ZauteKm/Calculator-Bot.git
@@ -74,13 +52,11 @@ $ pip3 install -r requirements.txt
 $ python3 bot.py
 ```
 
-</details>
-
 ---
 
 ## Credits
 
-- [Zaute Km](https://github.com/ZauteKm)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-TEAM-NRD)
+- [MAINTAIN](https://t.me/eye_black_lover)
 
 ---
