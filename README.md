@@ -1,11 +1,11 @@
 ## INLINE CALCULATOR
 <IMG src="https://telegra.ph/file/6caec29bf58337953a4b4.png">
 
-ᴄᴀʟᴄᴜʟᴀᴛᴇ  ғᴏʀ ʙᴀsɪᴄ ᴍᴀᴛʜ ᴏᴘᴇʀᴀᴛɪᴏɴs ɪᴛ's ᴊᴜsᴛ ᴀ sɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ.        ᴄʀᴇᴀᴛᴇᴅ ʙʏ :  [SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
-# Calculator-Bot
+ᴄᴀʟᴄᴜʟᴀᴛᴇ  ғᴏʀ ʙᴀsɪᴄ ᴍᴀᴛʜ ᴏᴘᴇʀᴀᴛɪᴏɴs ɪᴛ's ᴊᴜsᴛ ᴀ sɪᴍᴘʟᴇ ᴄᴀʟᴄᴜʟᴀᴛᴏʀ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ.       
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :  [SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
 
 
-Simple Telegram Calculator-Bot
+# Simple Telegram Calculator Bot
 
 ---
 
@@ -44,7 +44,9 @@ Simple Telegram Calculator-Bot
 
 <a href="https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-TEAM-NRD/INLINE-CALCULATOR">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-  
+
+
+---
 
 ```sh
 $ git clone https://github.com/SOCIAL-MECHANIC-TEAM-NRD/INLINE-CALCULATOR.git
