@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/ZauteKm/Calculator-Bot.git /Calculator-Bot
+git clone https://github.com/SOCIAL-MECHANIC-TEAM-NRD/INLINE-CALCULATOR.git /Calculator-Bot
 cd /Calculator-Bot
 pip3 install -r requirements.txt
 echo "Starting Bot...."
