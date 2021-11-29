@@ -47,7 +47,7 @@ Simple Telegram Calculator-Bot
   
 
 ```sh
-$ git clone https://github.com/ZauteKm/Calculator-Bot.git
+$ git clone https://github.com/SOCIAL-MECHANIC-TEAM-NRD/INLINE-CALCULATOR.git
 $ cd Calculator-Bot
 $ pip3 install -r requirements.txt
 # <create Variables Appropriately>
