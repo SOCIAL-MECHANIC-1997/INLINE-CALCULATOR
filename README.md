@@ -42,7 +42,7 @@
 
 ### Deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-TEAM-NRD/INLINE-CALCULATOR">
+<a href="https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/INLINE-CALCULATOR">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"> </a>
 
 
@@ -63,7 +63,7 @@ $ python3 bot.py
 
 ## Credits
 
-- [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-TEAM-NRD)
+- [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997)
 - [MAINTAIN](https://t.me/eye_black_lover)
 
 ---
