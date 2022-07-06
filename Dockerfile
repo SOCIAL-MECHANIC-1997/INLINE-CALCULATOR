@@ -1,6 +1,6 @@
-FROM python:latest
+FROM nikolaik/python-nodejs:python3.10-nodejs17
 
-RUN apt update && apt upgrade -y
+RUN apt-get update && apt-get upgrade -y
 RUN apt install git curl python3-pip ffmpeg -y
 RUN pip3 install -U pip
 COPY requirements.txt /requirements.txt
@@ -10,3 +10,6 @@ RUN mkdir /Calculator-Bot
 WORKDIR /Calculator-Bot
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
+
+
+
