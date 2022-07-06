@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) @SOCIAL-MECHANIC-TEAM-NRD 
+# Copyright (C) @SOCIAL-MECHANIC-1997 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -34,8 +34,8 @@ Made with by ❤️ [SOCIAL MECHANIC](https://t.me/SOCIAL_MECHANIC_1997)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🔥 Source Code', url='https://github.com/SOCIAL-MECHANIC-TEAM-NRD/INLINE-CALCULATOR'),
-        InlineKeyboardButton('Channel 📢', url='https://t.me/technology_corner_1')
+        InlineKeyboardButton('🔥 Source Code', url='https://github.com/SOCIAL-MECHANIC-1997/INLINE-CALCULATOR'),
+        InlineKeyboardButton('Channel 📢', url='https://t.me/social_mechanic')
         ]]
     )
 CALCULATE_TEXT = "▷ Made with by @SOCIAL_MECHANIC_1997"
